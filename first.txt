@@ -2,8 +2,15 @@ today is tuesday
 month is march 
 mahashivratri
 pushpa is a good movie
+<<<<<<< HEAD
 an apple a day keeps a doctor away
 hAi ki nahi
 
 Russia conflict with ukraine is boosting up
 
+=======
+
+Ram killed ravana
+Ravana killed none 
+still Ram is worshiped all over the world
+>>>>>>> a3bf1ae4075fd668b844c527226aac757ded67a7
